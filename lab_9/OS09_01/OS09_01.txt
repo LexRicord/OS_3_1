@@ -1,0 +1,4 @@
+1.123456(0)
+2. Jack
+3. Goodbye
+TESTSTRING(4)

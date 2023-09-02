@@ -1,6 +1,0 @@
-﻿  os09_01.cpp
-D:\repos\OSandSP_3_1\lab_9\OS09_01\OS09_01\os09_01.cpp(50,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-D:\repos\OSandSP_3_1\lab_9\OS09_01\OS09_01\os09_01.cpp(57,45): warning C4244: =: преобразование "WCHAR" в "char", возможна потеря данных
-D:\repos\OSandSP_3_1\lab_9\OS09_01\OS09_01\os09_01.cpp(141,43): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
-D:\repos\OSandSP_3_1\lab_9\OS09_01\OS09_01\os09_01.cpp(119,11): warning C4101: fileType: неиспользованная локальная переменная
-  OS09_01.vcxproj -> D:\repos\OSandSP_3_1\lab_9\OS09_01\x64\Debug\os09_01.exe

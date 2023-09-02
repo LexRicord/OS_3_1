@@ -1,3 +1,0 @@
-﻿  os05_03.cpp
-D:\repos\OSandSP_3_1\lab_5\OS05_03\OS05_03\os05_03.cpp(42,44): warning C4244: аргумент: преобразование "float" в "DWORD", возможна потеря данных
-  OS05_03.vcxproj -> D:\repos\OSandSP_3_1\lab_5\OS05_03\x64\Debug\os05_03.exe
